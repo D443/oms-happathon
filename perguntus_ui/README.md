@@ -13,18 +13,24 @@ Perguntus is a Django app. The main difference is that the Django settings and u
 
 Perguntus is separated into 2 parts they exists in oms-experimental repo:
 * perguntus_ui - the UI that users interact with (The Frontend)
+
 ***HTML Templates***
+
 * perguntus_ui/templates/dashboard.html - the main dashboard UI page
 * perguntus_ui/templates/edit.html - the edit questions UI page
 * perguntus_ui/templates/mobile.html - the mobile answer page
 * perguntus_ui/templates/questionform.html - the 'add a question’ form
 * perguntus_ui/templates/settings.html - the settings page
 * perguntus_ui/templates/sharing.html - the sharing page
+
 ***Static Files***
+
 * perguntus_ui/static/css/* - all style sheets files related to the project
 * perguntus_ui/static/img/* - all of the images related to the project
 * perguntus_ui/static/js/* - all the javascript files related to the project
+
 ***Files that the user should notice:***
+
 * perguntus_ui/static/js/PerguntusAnswer.js - the Javascript Backbone Answer Object
 * perguntus_ui/static/js/PerguntusBackbone.js - Perguntus Backbone Javascript Implementation
 * perguntus_ui/static/js/PerguntusDashboard.js - Perguntus Javascript Dashboard logics
@@ -40,6 +46,7 @@ Perguntus is separated into 2 parts they exists in oms-experimental repo:
 * perguntus_backend/views.py - Provides a way to run send_question via an HTTP request
 
 ***Is there a working demo of stock perguntus I can see?***
+
 https://kodkod.idhypercubed.org/PerguntusUI
 
 ***specific to the hackathon***
