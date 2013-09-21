@@ -52,11 +52,17 @@ https://kodkod.idhypercubed.org/PerguntusUI
 ***specific to the hackathon***
 
 ***What skills will I need to know to make changes?***
+
 To make changes you will need to have the following skills:
+
 HTML
+
 Javascript
+
 CSS
+
 Python (Django)
+
 
 ***What are some examples of changes I might want to make?***
 
