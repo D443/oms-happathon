@@ -2,12 +2,15 @@ Perguntus UI
 ================================
 
 ***What is the purpose of Perguntus? i.e., why does it exist?***
+
 Perguntus is an example application that is built on top of OMS. It uses some Backend Components and some Frontend Components. It was created to show some of the abilities of OMS
 
 ***Is perguntus a Django app? If so, how does it differ from regular Django apps.***
+
 Perguntus is a Django app. The main difference is that the Django settings and urls are going into the manifest file. Perguntus acts 100% as a django app.
 
 ***What is the purpose of each of the files in the repo?***
+
 Perguntus is separated into 2 parts they exists in oms-experimental repo:
 * perguntus_ui - the UI that users interact with (The Frontend)
 ***HTML Templates***
@@ -39,7 +42,7 @@ Perguntus is separated into 2 parts they exists in oms-experimental repo:
 ***Is there a working demo of stock perguntus I can see?***
 https://kodkod.idhypercubed.org/PerguntusUI
 
-Ñ specific to the hackathon Ñ
+***specific to the hackathon***
 
 ***What skills will I need to know to make changes?***
 To make changes you will need to have the following skills:
@@ -49,25 +52,37 @@ CSS
 Python (Django)
 
 ***What are some examples of changes I might want to make?***
+
 Changes to Perguntus can come in 2 ways:
+
 As Perguntus is still a work in progress a developer may try to improve the followings:
+
 Make Perguntus Templates extend from a base Template
+
 Refactor UI to work with Backbone.js templates
+
 Improve Javascript code
 
-Frontend changes - All of these changes will be made on perguntus_ui and will require HTML/Javascript/CSS skills.
+***Frontend changes*** - All of these changes will be made on perguntus_ui and will require HTML/Javascript/CSS skills.
+
 These changes can include:
+
 changing the graphs on the dashboard (using other graphs or displaying the data we already save in a different way)
+
 changing the edit question page
+
 changing the mobile answer page
 
-Backend changes - All of these changes will be made on perguntus_backend and will require Python (Django) skills
+***Backend changes*** - All of these changes will be made on perguntus_backend and will require Python (Django) skills
+
 These changes can include:
+
 Changing the way we save the data (changing the data models)
 
 Changes that will require changes to both parts of Perguntus can include:
 adding more data models.
 This will require you to add a new data model to the backend models and then create the UI to interact with the new backend model.
 
-Where should I ask for help?
+***Where should I ask for help?***
+
 IRC or kodkod
