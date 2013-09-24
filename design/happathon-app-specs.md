@@ -1,5 +1,7 @@
 List of specs for The H(app)athon App. Discussion for them [here](https://github.com/IDCubed/oms-happathon/issues/3).
 
+Milestone: Survey App Gathering Citizen Data
+
 * City can add city-specific questions.
 * City can change city-specific questions.
 * City can see updated data as users add it.
@@ -15,3 +17,8 @@ List of specs for The H(app)athon App. Discussion for them [here](https://github
 * User should be interruped (e.g., an alert), when the surveys pop up, to get data reflecting different situations.
 * User sees engaging/interesting updated visualizations after every successful survey completion
 * User can easily get started using the app (needs clearer definition)
+* User should be able to "unlock" new visualizations over time to maintain interest until the necessary survey period is done.
+
+
+Milestone: Personal Happiness (Well-being) Indicator Score
+* User who has unlocked all visualizations should continue receiving data about their well-being state without filling out any surveys.
