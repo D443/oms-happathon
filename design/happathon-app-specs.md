@@ -2,6 +2,7 @@ List of specs for The H(app)athon App. Discussion for them [here](https://github
 
 Milestone: Survey App Gathering Citizen Data
 
+* City can not see personally identifiable information.
 * City can add city-specific questions.
 * City can change city-specific questions.
 * City can see updated data as users add it.
