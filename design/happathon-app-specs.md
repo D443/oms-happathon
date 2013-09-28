@@ -23,3 +23,4 @@ Milestone: Survey App Gathering Citizen Data
 
 Milestone: Personal Happiness (Well-being) Indicator Score (machine-learning algorithms complete)
 * User who has unlocked all visualizations should continue receiving data about their well-being state without filling out any surveys.
+* Users with older phones should still gather data, just with fewer sensors. (we may need different native android/ios versions for this)
