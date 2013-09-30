@@ -19,13 +19,13 @@
 * Restarting your existing dev environment
   * From this tutorial, you should feel comfortable with:
   * [choosing an existing virtualenv](#)
-* Editing your dev environment's files
+* Editing your dev environment's files in Windows
   * From this tutorial, you should feel comfortable with:
-  * [setting up your ssh key](#)
-  * [editing your files with a separate editor](#)
-  * [editing your files with vim](#)
-  * [(windows users: Git Bash)](#)
-
+  * [Starting an SSH session to your vm](#)
+  * [Establishing password-free access with SSH keys](#)
+  * [Editing your vm's files with vim](#)
+  * [Editing your vm's files locally with Sublimetext](#)
+* Editing your dev environment's files on Mac
 
 
 ## Developers: OMS Basics
